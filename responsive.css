@@ -1,0 +1,70 @@
+@media screen and (min-width: 1920px){
+    main {
+        display: flex;
+        justify-content: center;
+        
+    }
+
+    .assets {
+        width: 348px;
+        height: 292px;
+    }
+    
+.aside {
+        flex-direction: row;
+        flex-wrap: wrap;
+        
+    }
+
+    .tec {
+        margin-left: 20%;
+    }
+footer {
+    position: absolute;
+}
+
+}
+
+@media screen and (max-width: 1280px){
+    main {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav {
+        display: flex;
+        flex-direction: column;
+        width: 348px;
+      
+    }
+
+    .myProjects {
+        width: 100%;
+        
+    }
+    .projectDuplo {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+ 
+    .projects {
+        width: 100%;
+    }
+
+    .recentPost {
+        width: 100%;
+    }
+
+    .coments {
+        width: 100%;
+    }
+    .comentsText {
+        width: 100%;
+        font-size: 12px;
+    }
+
+  .text{
+      width: 100%;
+  }
+}
