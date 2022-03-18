@@ -178,7 +178,7 @@ color: #837E9F;
     background: #302F3D;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
     border-radius: 20px;
-    padding: 25px 20px;
+    padding: 15px 20px 20px 20px;
     
 }
 
@@ -250,7 +250,7 @@ color: #837E9F;
     background: #302F3D;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
     border-radius: 20px;
-    padding: 30px;
+    padding: 30px 30px 30px 15px;
 
     display: flex;
     align-items: center;
